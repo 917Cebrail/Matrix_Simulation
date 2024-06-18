@@ -1,0 +1,7 @@
+﻿  Simulation-Matrix.c
+c:\users\cebrail\source\repos\simulation-matrix\simulation-matrix\simulation-matrix.c(41): warning C4244: '=': 'int' - 'float' dönüşümü; veri kaybı olabilir
+c:\users\cebrail\source\repos\simulation-matrix\simulation-matrix\simulation-matrix.c(49): warning C4244: '=': 'double' - 'float' dönüşümü; veri kaybı olabilir
+c:\users\cebrail\source\repos\simulation-matrix\simulation-matrix\simulation-matrix.c(54): warning C4047: '<': 'int', yöneltme düzeyi sayısı bakımından 'float [20]' ile aynı değil
+c:\users\cebrail\source\repos\simulation-matrix\simulation-matrix\simulation-matrix.c(67): warning C4244: 'return': 'double' - 'float' dönüşümü; veri kaybı olabilir
+c:\users\cebrail\source\repos\simulation-matrix\simulation-matrix\simulation-matrix.c(84): warning C4244: '=': 'double' - 'float' dönüşümü; veri kaybı olabilir
+  Simulation-Matrix.vcxproj -> C:\Users\Cebrail\source\repos\Simulation-Matrix\Debug\Simulation-Matrix.exe

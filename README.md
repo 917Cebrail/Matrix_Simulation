@@ -1,3 +1,3 @@
 # Matrix
-<p>Do you want to put an AI into a simulation that you can control?</p>
-<p>1D bir alanda sağa sola gidebilen basit bir yapay zekanın yaptığı şeyler, matrix de olan şeylerle aynıdır.</p>
+<p>1D bir alanda sağa sola gidebilen basit bir yapay zekayı kontrol etmek istemez misin ?</p>
+<p>Istediğin kadar ekleyebiliyorsunuz ve bunların hareketlerini, kodlarını görüntüleyebiliyorsunuz.</p>

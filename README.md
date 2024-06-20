@@ -4,3 +4,5 @@
 <h2><b>Version 1</b></h2>
 <p>Bu versiyonda Matrix tam bir cennet gibi, istediklerini yapabiliyorlar ve serbestler.</p>
 <p>Önceki Matrix versiyonuna göre bu sefer hareketleri daha sıkı kontrol ediliyor ki, Matrix içinde ölmesinler.</p>
+<h2><b>Version 2</b></h2>
+<p>Bu versiyonda işlemlerimizi bir döngü içinde yapabiliyoruz. Şimdilik az komut var ama diğer versiyonlarda yeni komutlar eklenecektir.</p>
